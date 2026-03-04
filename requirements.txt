@@ -1,0 +1,11 @@
+google-genai
+RealtimeSTT
+customtkinter
+elevenlabs
+openai-whisper
+SpeechRecognition
+python-dotenv
+GitPython
+pvporcupine
+flask
+gunicorn
